@@ -1,0 +1,4990 @@
+[
+ {
+  "id": "NPTEL-W1-Q1",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "Which of the following is NOT a typical phase in the software development process?",
+  "options": [
+   {
+    "k": "A",
+    "text": "User Interface (UI) design"
+   },
+   {
+    "k": "B",
+    "text": "Requirements gathering"
+   },
+   {
+    "k": "C",
+    "text": "Testing"
+   },
+   {
+    "k": "D",
+    "text": "Maintenance"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Phases: requirements, design, development, testing, maintenance.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q2",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "Clients in software development can be ____________",
+  "options": [
+   {
+    "k": "A",
+    "text": "Internal users of a company"
+   },
+   {
+    "k": "B",
+    "text": "External users of a company"
+   },
+   {
+    "k": "C",
+    "text": "Other software systems"
+   },
+   {
+    "k": "D",
+    "text": "All of the above"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Clients: external users, internal to the company, or another software (e.g. Razorpay).",
+  "topics": [
+   "Clients"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q3",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "What is the main purpose of the design phase in software development?",
+  "options": [
+   {
+    "k": "A",
+    "text": "To write well-documented code"
+   },
+   {
+    "k": "B",
+    "text": "To create a big-picture view of the system"
+   },
+   {
+    "k": "C",
+    "text": "To develop a user interface"
+   },
+   {
+    "k": "D",
+    "text": "To fix bugs in the code"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Design gives the big-picture view and structure of the system.",
+  "topics": [
+   "Design phase"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q4",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "How do developers typically collaborate on code in the development phase?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Working independently all the time"
+   },
+   {
+    "k": "B",
+    "text": "Using version control systems like Git"
+   },
+   {
+    "k": "C",
+    "text": "Writing all the code in one sitting"
+   },
+   {
+    "k": "D",
+    "text": "None of the above"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Distributed development uses tools like GitHub/Git.",
+  "topics": [
+   "Development phase"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q5",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "What is a major drawback of the waterfall model of software development?",
+  "options": [
+   {
+    "k": "A",
+    "text": "It is time-consuming"
+   },
+   {
+    "k": "B",
+    "text": "It requires expensive resources"
+   },
+   {
+    "k": "C",
+    "text": "It is difficult to adapt to changing requirements"
+   },
+   {
+    "k": "D",
+    "text": "It is not suitable for large projects"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Late changes cost time and money; clients may not know what they need.",
+  "topics": [
+   "Waterfall"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q6",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "A biology research lab is developing a new computer model to simulate the growth rate of a specific bacteria strain under different environmental conditions. Who is the primary user of the model?",
+  "options": [
+   {
+    "k": "A",
+    "text": "An external user"
+   },
+   {
+    "k": "B",
+    "text": "Internal to the company"
+   },
+   {
+    "k": "C",
+    "text": "Another software"
+   },
+   {
+    "k": "D",
+    "text": "None of the above"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "The lab itself uses the model: an internal client.",
+  "topics": [
+   "Clients"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q7",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "A marketing team at a travel booking website develops a mobile app internally and conducts initial usability testing with a small group of colleagues from different departments who were not involved in development. This is an example of ___________",
+  "options": [
+   {
+    "k": "A",
+    "text": "Alpha testing"
+   },
+   {
+    "k": "B",
+    "text": "Beta testing"
+   },
+   {
+    "k": "C",
+    "text": "Gamma testing"
+   },
+   {
+    "k": "D",
+    "text": "Delta testing"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Alpha = internal employees, lab/staging. Beta = actual users in real life.",
+  "topics": [
+   "Alpha/Beta testing"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q8",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 8,
+  "type": "MSQ",
+  "question": "Which of the following statements are true?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Description of what your functions can do without describing the implementation in detail is known as an interface"
+   },
+   {
+    "k": "B",
+    "text": "The code implemented by the interface cannot change once it has been designed"
+   },
+   {
+    "k": "C",
+    "text": "The code implemented by the interface can change once it has been designed"
+   }
+  ],
+  "answer": [
+   "A",
+   "C"
+  ],
+  "explanation": "Implementation may change as long as the interface stays the same.",
+  "topics": [
+   "Interface"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q9",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "A bank wants to introduce a blockchain feature. Map the task to the phase of the software development process.\n\nProviding the implemented blockchain feature to a few select users and checking for any errors.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement Specification"
+   },
+   {
+    "k": "B",
+    "text": "Software Design"
+   },
+   {
+    "k": "C",
+    "text": "Software Development"
+   },
+   {
+    "k": "D",
+    "text": "Testing"
+   },
+   {
+    "k": "E",
+    "text": "Maintenance"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Release to select users to find errors = testing.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q10",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "A bank wants to introduce a blockchain feature. Map the task to the phase of the software development process.\n\nOutlining the different modules of the new feature and how it will interact with existing features of the banking system.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement Specification"
+   },
+   {
+    "k": "B",
+    "text": "Software Design"
+   },
+   {
+    "k": "C",
+    "text": "Software Development"
+   },
+   {
+    "k": "D",
+    "text": "Testing"
+   },
+   {
+    "k": "E",
+    "text": "Maintenance"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Modules and interactions = big-picture design.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q11",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 11,
+  "type": "MCQ",
+  "question": "A bank wants to introduce a blockchain feature. Map the task to the phase of the software development process.\n\nGathering information about how blockchain works and getting regulatory information from RBI.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement Specification"
+   },
+   {
+    "k": "B",
+    "text": "Software Design"
+   },
+   {
+    "k": "C",
+    "text": "Software Development"
+   },
+   {
+    "k": "D",
+    "text": "Testing"
+   },
+   {
+    "k": "E",
+    "text": "Maintenance"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Gathering goals/constraints = requirements.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W1-Q12",
+  "src": "NPTEL",
+  "week": 1,
+  "qno": 12,
+  "type": "MCQ",
+  "question": "A bank wants to introduce a blockchain feature. Map the task to the phase of the software development process.\n\nGetting feedback about the feature from users and outlining updates for the next release.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement Specification"
+   },
+   {
+    "k": "B",
+    "text": "Software Design"
+   },
+   {
+    "k": "C",
+    "text": "Software Development"
+   },
+   {
+    "k": "D",
+    "text": "Testing"
+   },
+   {
+    "k": "E",
+    "text": "Maintenance"
+   }
+  ],
+  "answer": [
+   "E"
+  ],
+  "explanation": "Monitoring usage and planning updates = maintenance.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q1",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "A payment gateway acts as a middleman between ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "the client and the tester"
+   },
+   {
+    "k": "B",
+    "text": "two banks"
+   },
+   {
+    "k": "C",
+    "text": "the user and the developer"
+   },
+   {
+    "k": "D",
+    "text": "the bank and the merchant's website/app"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "It validates encrypted card details with the bank and transfers money to the merchant.",
+  "topics": [
+   "Components"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q2",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "Software that is divided into separately addressable components that are integrated to satisfy requirements is said to be made of ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "sprints"
+   },
+   {
+    "k": "B",
+    "text": "modules"
+   },
+   {
+    "k": "C",
+    "text": "interfaces"
+   },
+   {
+    "k": "D",
+    "text": "prototypes"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Lecture 2 summary.",
+  "topics": [
+   "Components"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q3",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "What is usually the FIRST step in the software development process?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Testing"
+   },
+   {
+    "k": "B",
+    "text": "Learning a programming language"
+   },
+   {
+    "k": "C",
+    "text": "Writing code"
+   },
+   {
+    "k": "D",
+    "text": "Gathering requirements"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Understand the problem and set explicit goals first.",
+  "topics": [
+   "Requirements"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q4",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "A payment gateway such as Razorpay serving an e-commerce site is an example of a client that is ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "an external user"
+   },
+   {
+    "k": "B",
+    "text": "another software"
+   },
+   {
+    "k": "C",
+    "text": "a tester"
+   },
+   {
+    "k": "D",
+    "text": "internal to the company"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "It interfaces with another software system.",
+  "topics": [
+   "Clients"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q5",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "An employee resource portal built by an internal products team for HR is an example of a client that is ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "another software"
+   },
+   {
+    "k": "B",
+    "text": "internal to the company"
+   },
+   {
+    "k": "C",
+    "text": "none"
+   },
+   {
+    "k": "D",
+    "text": "an external user"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "The users are inside the company.",
+  "topics": [
+   "Clients"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q6",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "Why is a design needed before coding?",
+  "options": [
+   {
+    "k": "A",
+    "text": "To reduce the number of clients"
+   },
+   {
+    "k": "B",
+    "text": "Because coding cannot start without UML"
+   },
+   {
+    "k": "C",
+    "text": "To avoid testing"
+   },
+   {
+    "k": "D",
+    "text": "Different developers may implement functionality differently, and new features need a big-picture view"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Integration problems and no overview when adding features.",
+  "topics": [
+   "Design phase"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q7",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "Beta testing is conducted by ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "only the designers"
+   },
+   {
+    "k": "B",
+    "text": "actual users in a real-life setting"
+   },
+   {
+    "k": "C",
+    "text": "internal employees in a lab"
+   },
+   {
+    "k": "D",
+    "text": "only the developers"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Alpha = internal; beta = real users.",
+  "topics": [
+   "Alpha/Beta testing"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q8",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "Which is NOT a purpose of the maintenance phase?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Change code for upgrades and updates"
+   },
+   {
+    "k": "B",
+    "text": "Monitor how users use the software"
+   },
+   {
+    "k": "C",
+    "text": "Add features"
+   },
+   {
+    "k": "D",
+    "text": "Gather the initial requirements from scratch"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Maintenance: monitor, update, add features.",
+  "topics": [
+   "Maintenance"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q9",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "In the waterfall example (2+3+4+3 months), after how long does the client first see the software?",
+  "options": [
+   {
+    "k": "A",
+    "text": "3 months"
+   },
+   {
+    "k": "B",
+    "text": "7 months"
+   },
+   {
+    "k": "C",
+    "text": "12 months"
+   },
+   {
+    "k": "D",
+    "text": "2 months"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "2+3+4+3 = 12 months; then the client says 'I don't like it'.",
+  "topics": [
+   "Waterfall"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q10",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 10,
+  "type": "MSQ",
+  "question": "Which are drawbacks of the waterfall model?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Changes later increase cost and time"
+   },
+   {
+    "k": "B",
+    "text": "Clients may not know what they need"
+   },
+   {
+    "k": "C",
+    "text": "Designers may not know which design is most feasible/usable"
+   },
+   {
+    "k": "D",
+    "text": "It cannot be used with version control"
+   }
+  ],
+  "answer": [
+   "A",
+   "B",
+   "C"
+  ],
+  "explanation": "The three drawbacks in Lecture 6.",
+  "topics": [
+   "Waterfall"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q11",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 11,
+  "type": "MCQ",
+  "question": "The model whose steps bend upward after implementation to form a V shape is the ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "V-model"
+   },
+   {
+    "k": "B",
+    "text": "Iterative model"
+   },
+   {
+    "k": "C",
+    "text": "Agile model"
+   },
+   {
+    "k": "D",
+    "text": "Waterfall model"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Verification and validation on the right arm.",
+  "topics": [
+   "Development models"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q12",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 12,
+  "type": "MSQ",
+  "question": "Which are agile frameworks/practices mentioned in the course?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Scrum"
+   },
+   {
+    "k": "B",
+    "text": "Test-driven development"
+   },
+   {
+    "k": "C",
+    "text": "Sprints"
+   },
+   {
+    "k": "D",
+    "text": "Kanban"
+   }
+  ],
+  "answer": [
+   "A",
+   "D",
+   "C",
+   "B"
+  ],
+  "explanation": "Frameworks: Scrum, Kanban. Practices: sprints, TDD.",
+  "topics": [
+   "Agile"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q13",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 13,
+  "type": "MCQ",
+  "question": "Which is a key difference between building a house and building software?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Software is made of abstract logical components and keeps changing"
+   },
+   {
+    "k": "B",
+    "text": "Houses are never designed first"
+   },
+   {
+    "k": "C",
+    "text": "Software has no requirements"
+   },
+   {
+    "k": "D",
+    "text": "Software cannot be tested"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Abstract, adaptable and evolving vs tangible and static.",
+  "topics": [
+   "Software vs building"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q14",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 14,
+  "type": "MCQ",
+  "question": "Inventory management is the act of measuring the ________ of products available.",
+  "options": [
+   {
+    "k": "A",
+    "text": "colour and size only"
+   },
+   {
+    "k": "B",
+    "text": "seller names"
+   },
+   {
+    "k": "C",
+    "text": "delivery speed only"
+   },
+   {
+    "k": "D",
+    "text": "amount, location, pricing and mix"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Definition from Lecture 2.",
+  "topics": [
+   "Components"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q15",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 15,
+  "type": "MCQ",
+  "question": "Amazon's home page differs between users because it is customised using ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "the developer's choice"
+   },
+   {
+    "k": "B",
+    "text": "your phone model"
+   },
+   {
+    "k": "C",
+    "text": "your bank"
+   },
+   {
+    "k": "D",
+    "text": "the items you viewed and your shopping history"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Personalisation uses view and purchase history.",
+  "topics": [
+   "Components"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q16",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 16,
+  "type": "MCQ",
+  "question": "Amazon Pay is best described as a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "mobile wallet"
+   },
+   {
+    "k": "B",
+    "text": "payment gateway only"
+   },
+   {
+    "k": "C",
+    "text": "testing tool"
+   },
+   {
+    "k": "D",
+    "text": "inventory system"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "A way to carry cash digitally; features like add money and auto reload.",
+  "topics": [
+   "Requirements"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q17",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 17,
+  "type": "MCQ",
+  "question": "The implementation behind interface A (inputs W, X, Y → output Z) is rewritten but the inputs and outputs stay the same. What happens to the interface?",
+  "options": [
+   {
+    "k": "A",
+    "text": "It turns into a class"
+   },
+   {
+    "k": "B",
+    "text": "It stays the same"
+   },
+   {
+    "k": "C",
+    "text": "It must be redesigned"
+   },
+   {
+    "k": "D",
+    "text": "It becomes invalid"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Code behind an interface may change as long as the interface remains.",
+  "topics": [
+   "Interface"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q18",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 18,
+  "type": "MCQ",
+  "question": "Software bugs cost the US economy about how much in 2016, according to the lecture?",
+  "options": [
+   {
+    "k": "A",
+    "text": "$59.5 billion"
+   },
+   {
+    "k": "B",
+    "text": "$100 billion"
+   },
+   {
+    "k": "C",
+    "text": "$1.1 trillion"
+   },
+   {
+    "k": "D",
+    "text": "$10 million"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "2002: about $59.5 billion; 2016: $1.1 trillion.",
+  "topics": [
+   "Testing"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q19",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 19,
+  "type": "MCQ",
+  "question": "Alpha testing is done in ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "a lab or staging environment"
+   },
+   {
+    "k": "B",
+    "text": "the requirements phase"
+   },
+   {
+    "k": "C",
+    "text": "real-life user settings"
+   },
+   {
+    "k": "D",
+    "text": "the maintenance phase"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Alpha = internal staff in a lab/staging; beta = real life.",
+  "topics": [
+   "Alpha/Beta testing"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q20",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 20,
+  "type": "MCQ",
+  "question": "A team builds key features, deploys, shows the client, takes feedback and refines in the next cycle. This is the ________ model.",
+  "options": [
+   {
+    "k": "A",
+    "text": "iterative"
+   },
+   {
+    "k": "B",
+    "text": "V"
+   },
+   {
+    "k": "C",
+    "text": "waterfall"
+   },
+   {
+    "k": "D",
+    "text": "sequential"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Repeated cycles with client feedback; agile is a popular iterative model.",
+  "topics": [
+   "Development models"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q21",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 21,
+  "type": "MCQ",
+  "question": "A team delivers small increments and quick prototypes of key features using sprints. This is ________ methodology.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Waterfall"
+   },
+   {
+    "k": "B",
+    "text": "Agile"
+   },
+   {
+    "k": "C",
+    "text": "Big-bang"
+   },
+   {
+    "k": "D",
+    "text": "V-model"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Agile frameworks: Scrum, Kanban.",
+  "topics": [
+   "Agile"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q22",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 22,
+  "type": "MCQ",
+  "question": "In the V-model, after implementation the steps ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "end with maintenance only"
+   },
+   {
+    "k": "B",
+    "text": "repeat the requirements phase"
+   },
+   {
+    "k": "C",
+    "text": "bend upward: verify and validate modules, then the whole system"
+   },
+   {
+    "k": "D",
+    "text": "are skipped"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "The right arm tests each level against the corresponding design level.",
+  "topics": [
+   "Development models"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W1-Q23",
+  "src": "EXTRA",
+  "week": 1,
+  "qno": 23,
+  "type": "MCQ",
+  "question": "Which of these is static, unlike software?",
+  "options": [
+   {
+    "k": "A",
+    "text": "A constructed building"
+   },
+   {
+    "k": "B",
+    "text": "A music player app"
+   },
+   {
+    "k": "C",
+    "text": "An agile team"
+   },
+   {
+    "k": "D",
+    "text": "A website"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Buildings are tangible and static; software keeps changing (Winamp → Saavn).",
+  "topics": [
+   "Software vs building"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   1
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q1",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "What is the consequence of NOT integrating Function, Behavior, and Structure during the design phase?",
+  "options": [
+   {
+    "k": "A",
+    "text": "It creates an incoherent and potentially redundant design with multiple solutions."
+   },
+   {
+    "k": "B",
+    "text": "It increases development time."
+   },
+   {
+    "k": "C",
+    "text": "It makes the software more complex."
+   },
+   {
+    "k": "D",
+    "text": "It is difficult to communicate the design to stakeholders."
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "E.g. only mood detection as a function: many possible solutions, not decidable.",
+  "topics": [
+   "FBS integration"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q2",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 2,
+  "type": "MSQ",
+  "question": "What are the advantages of integrating Function, Behavior, and Structure during conceptual design?",
+  "options": [
+   {
+    "k": "A",
+    "text": "It creates a unified view of the design solution."
+   },
+   {
+    "k": "B",
+    "text": "It helps ensure the solution meets all the requirements."
+   },
+   {
+    "k": "C",
+    "text": "It facilitates clear communication within the development team."
+   },
+   {
+    "k": "D",
+    "text": "It reduces the risk of getting stuck during the design process."
+   }
+  ],
+  "answer": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "explanation": "All four benefits were listed in Lecture 11.",
+  "topics": [
+   "FBS integration"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q3",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "How many possible FBS graphs can exist for a single software design problem?",
+  "options": [
+   {
+    "k": "A",
+    "text": "There is always a single, correct FBS graph."
+   },
+   {
+    "k": "B",
+    "text": "There can be multiple possible FBS graphs depending on the design approach."
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "BSF, FSB and other combinations are all possible.",
+  "topics": [
+   "FBS graph"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q4",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "In __________, you can explore the graph and then edit the graph by adding the features available in Think&Link.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Planning Phase"
+   },
+   {
+    "k": "B",
+    "text": "Introduction Phase"
+   },
+   {
+    "k": "C",
+    "text": "Induction Phase"
+   },
+   {
+    "k": "D",
+    "text": "Brainstorm Phase"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Introduction: explore only. Induction: explore and edit, then evaluate. Ideation: build from scratch.",
+  "topics": [
+   "Think & Link"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q5",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "The formal realisation evaluation criteria in a FBS graph ensures that _________",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS graph can be used for formal documentation"
+   },
+   {
+    "k": "B",
+    "text": "FBS graph is formally correct"
+   },
+   {
+    "k": "C",
+    "text": "FBS graph can be used in formal conversations"
+   },
+   {
+    "k": "D",
+    "text": "FBS graph converts to the corresponding UML diagrams"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Formal realisation = the graph can be translated to UML.",
+  "topics": [
+   "Evaluation criteria"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q6",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "The most important reason to link function, structure and behaviour is to _________",
+  "options": [
+   {
+    "k": "A",
+    "text": "Describe in depth a part of a solution"
+   },
+   {
+    "k": "B",
+    "text": "Create a correct solution"
+   },
+   {
+    "k": "C",
+    "text": "Develop an integrated solution"
+   },
+   {
+    "k": "D",
+    "text": "Create different solutions for a given problem"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Linking gives an integrated view of the design.",
+  "topics": [
+   "FBS integration"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q7",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 7,
+  "type": "MSQ",
+  "question": "Consider: \"The emotion camera captures the user emotion, then provides it to the playlist generator which then creates a playlist based on the mood\". This statement describes ____________",
+  "options": [
+   {
+    "k": "A",
+    "text": "interactions in the design solution"
+   },
+   {
+    "k": "B",
+    "text": "implementation of the mood based music playing feature"
+   },
+   {
+    "k": "C",
+    "text": "description of a use case"
+   }
+  ],
+  "answer": [
+   "A",
+   "B"
+  ],
+  "explanation": "It is a behaviour (interaction of structures). The portal gave partial credit for either one; the accepted key lists both.",
+  "topics": [
+   "Behaviour"
+  ],
+  "flags": [
+   "portal-partial-credit"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q8",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "The __________ evaluation criteria is indicative of the interconnected function, structure and behaviour nodes in the FBS graph.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Consistency"
+   },
+   {
+    "k": "B",
+    "text": "Complexity"
+   },
+   {
+    "k": "C",
+    "text": "Connectivity"
+   },
+   {
+    "k": "D",
+    "text": "Competency"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Connectivity = how F, S, B nodes are interlinked.",
+  "topics": [
+   "Evaluation criteria"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q9",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "The _________ evaluation criteria is indicative of the number of nodes in each of the categories of function, behaviour and structure.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Complexity"
+   },
+   {
+    "k": "B",
+    "text": "Level adjacency"
+   },
+   {
+    "k": "C",
+    "text": "Validity"
+   },
+   {
+    "k": "D",
+    "text": "Correctness"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Complexity = number of nodes per category.",
+  "topics": [
+   "Evaluation criteria"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W2-Q10",
+  "src": "NPTEL",
+  "week": 2,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "The stage which precedes the development stage in the traditional SDLC is?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement stage"
+   },
+   {
+    "k": "B",
+    "text": "Design stage"
+   },
+   {
+    "k": "C",
+    "text": "Maintenance stage"
+   },
+   {
+    "k": "D",
+    "text": "Testing stage"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Requirements → Design → Development → Testing → Maintenance.",
+  "topics": [
+   "SDLC phases"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q1",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "In FBS, the 'why' of the design corresponds to ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Interface"
+   },
+   {
+    "k": "B",
+    "text": "Behaviour"
+   },
+   {
+    "k": "C",
+    "text": "Structure"
+   },
+   {
+    "k": "D",
+    "text": "Function"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Why = function; what = structure; how = behaviour.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q2",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "An 'emotion recognition camera' in the mood-based music player is a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement"
+   },
+   {
+    "k": "B",
+    "text": "Function"
+   },
+   {
+    "k": "C",
+    "text": "Structure"
+   },
+   {
+    "k": "D",
+    "text": "Behaviour"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Physical component.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q3",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "'Playlist creation' in the mood-based music player is a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Function"
+   },
+   {
+    "k": "B",
+    "text": "Structure"
+   },
+   {
+    "k": "C",
+    "text": "Behaviour"
+   },
+   {
+    "k": "D",
+    "text": "Class"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "A feature of the solution.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q4",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "'User places face near the camera' is best classified as a ________ node.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Structure"
+   },
+   {
+    "k": "B",
+    "text": "Test"
+   },
+   {
+    "k": "C",
+    "text": "Function"
+   },
+   {
+    "k": "D",
+    "text": "Behaviour"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "An interaction that leads to achieving a function.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q5",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "In the FBS graph, the nodes and links represent ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Only classes and objects"
+   },
+   {
+    "k": "B",
+    "text": "Only the user interface"
+   },
+   {
+    "k": "C",
+    "text": "Test cases"
+   },
+   {
+    "k": "D",
+    "text": "F/B/S elements and the connections among them"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Nodes = F, B, S; links connect them.",
+  "topics": [
+   "FBS graph"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q6",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "Think & Link phases in order (as shown in the lecture) are ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Ideation, Induction, Introduction"
+   },
+   {
+    "k": "B",
+    "text": "Induction, Introduction, Ideation"
+   },
+   {
+    "k": "C",
+    "text": "Introduction, Induction, Ideation"
+   },
+   {
+    "k": "D",
+    "text": "Planning, Coding, Testing"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Explore, then edit and evaluate, then create your own.",
+  "topics": [
+   "Think & Link"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q7",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "In which Think & Link phase do you write your own design problem and build an FBS graph from scratch?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Induction"
+   },
+   {
+    "k": "B",
+    "text": "Maintenance"
+   },
+   {
+    "k": "C",
+    "text": "Introduction"
+   },
+   {
+    "k": "D",
+    "text": "Ideation"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Done for two problems.",
+  "topics": [
+   "Think & Link"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q8",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "Which FBS evaluation criterion is about the number of nodes in each of F, B, S?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Formal realisation"
+   },
+   {
+    "k": "B",
+    "text": "Consistency"
+   },
+   {
+    "k": "C",
+    "text": "Connectivity"
+   },
+   {
+    "k": "D",
+    "text": "Complexity"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Complexity = node counts.",
+  "topics": [
+   "Evaluation criteria"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q9",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "'Facial recognition', 'voice-based mood detection' and 'user-history-based mood detection' are different ________ for the function 'mood detection'.",
+  "options": [
+   {
+    "k": "A",
+    "text": "behaviours"
+   },
+   {
+    "k": "B",
+    "text": "phases"
+   },
+   {
+    "k": "C",
+    "text": "requirements"
+   },
+   {
+    "k": "D",
+    "text": "structures"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Many structures can realise one function; integration with behaviour helps decide.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q10",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "Experienced designers continuously think about the ________ of the design.",
+  "options": [
+   {
+    "k": "A",
+    "text": "cost, time and people"
+   },
+   {
+    "k": "B",
+    "text": "why, what and how"
+   },
+   {
+    "k": "C",
+    "text": "code, test and release"
+   },
+   {
+    "k": "D",
+    "text": "who, when and where"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Why = function, what = structure, how = behaviour.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q11",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 11,
+  "type": "MCQ",
+  "question": "One way to integrate F, B and S is to ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "start from a known solution and evaluate whether it applies"
+   },
+   {
+    "k": "B",
+    "text": "wait for beta testing"
+   },
+   {
+    "k": "C",
+    "text": "write the code first"
+   },
+   {
+    "k": "D",
+    "text": "skip the structures"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "E.g. existing mood-detecting cameras as candidate structures.",
+  "topics": [
+   "FBS integration"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q12",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 12,
+  "type": "MCQ",
+  "question": "'User authentication' in the mood-based music player is a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "behaviour"
+   },
+   {
+    "k": "B",
+    "text": "structure"
+   },
+   {
+    "k": "C",
+    "text": "function"
+   },
+   {
+    "k": "D",
+    "text": "use case diagram"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "A feature of the solution.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q13",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 13,
+  "type": "MCQ",
+  "question": "'Voice sentiment analysis algorithm' is a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "requirement"
+   },
+   {
+    "k": "B",
+    "text": "behaviour"
+   },
+   {
+    "k": "C",
+    "text": "function"
+   },
+   {
+    "k": "D",
+    "text": "structure"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "A logical component.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q14",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 14,
+  "type": "MCQ",
+  "question": "'System fetches songs based on the mood' is a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "behaviour"
+   },
+   {
+    "k": "B",
+    "text": "structure"
+   },
+   {
+    "k": "C",
+    "text": "function"
+   },
+   {
+    "k": "D",
+    "text": "class"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "An action by structures that achieves a function.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q15",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 15,
+  "type": "MCQ",
+  "question": "In an FBS graph you must always start from a function node.",
+  "options": [
+   {
+    "k": "A",
+    "text": "True"
+   },
+   {
+    "k": "B",
+    "text": "False"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "You can start from any node: F, B or S.",
+  "topics": [
+   "FBS graph"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q16",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 16,
+  "type": "MCQ",
+  "question": "In Think & Link you answer planning questions and create a graph from scratch in the ________ phase.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Induction"
+   },
+   {
+    "k": "B",
+    "text": "Maintenance"
+   },
+   {
+    "k": "C",
+    "text": "Ideation"
+   },
+   {
+    "k": "D",
+    "text": "Introduction"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Third phase; done for two problems.",
+  "topics": [
+   "Think & Link"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q17",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 17,
+  "type": "MCQ",
+  "question": "Which is NOT a rating category in the Think & Link evaluation wheel?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Needs Improvement"
+   },
+   {
+    "k": "B",
+    "text": "Excellent"
+   },
+   {
+    "k": "C",
+    "text": "Missing"
+   },
+   {
+    "k": "D",
+    "text": "Meets Expectation"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Ratings: Meets Expectation, Needs Improvement, Inadequate, Missing.",
+  "topics": [
+   "Evaluation criteria"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W2-Q18",
+  "src": "EXTRA",
+  "week": 2,
+  "qno": 18,
+  "type": "MCQ",
+  "question": "A software conceptual design is a design description that can be represented ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "only as a test plan"
+   },
+   {
+    "k": "B",
+    "text": "graphically, numerically or textually"
+   },
+   {
+    "k": "C",
+    "text": "only as UML"
+   },
+   {
+    "k": "D",
+    "text": "only as code"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Lecture 13 summary.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   2
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q1",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "What are the two main types of views used in UML diagrams to represent a software design?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Sequential view and logical view"
+   },
+   {
+    "k": "B",
+    "text": "Structural view and dynamic behavioral view"
+   },
+   {
+    "k": "C",
+    "text": "Abstract view and concrete view"
+   },
+   {
+    "k": "D",
+    "text": "Functional view and non-functional view"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Class diagram = structural; sequence/state/activity = dynamic.",
+  "topics": [
+   "UML"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q2",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "What is design tracing in the context of VeriSIM?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Analyzing the comments and code annotations left by developers."
+   },
+   {
+    "k": "B",
+    "text": "Constructing a state diagram that models a specific scenario in the software design."
+   },
+   {
+    "k": "C",
+    "text": "Manually reviewing the class diagram for errors and inconsistencies."
+   },
+   {
+    "k": "D",
+    "text": "Stepping through the code line by line to identify bugs."
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Transitions come from sequence-diagram messages; state variables from the class diagram.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q3",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "What is the main difference between functional requirements and non-functional requirements according to the lecture?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Functional requirements define what the system should do, while non-functional requirements define how the system should look."
+   },
+   {
+    "k": "B",
+    "text": "Functional requirements are easier to define, while non-functional requirements are more subjective."
+   },
+   {
+    "k": "C",
+    "text": "Functional requirements focus on the system's features, while non-functional requirements focus on its behavior."
+   },
+   {
+    "k": "D",
+    "text": "Functional requirements are provided by the developers, while non-functional requirements come from the users."
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Functional = what the system does; non-functional = how it behaves.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q4",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "Rido is a ride sharing app, where users can share rides with others to reach their destination.\n\nConsider the requirement: \"When users pay for their rides (UPI, Net banking, mobile wallets etc.), payment failures can occur. Rido should be able to seamlessly handle such failures.\" This is a quality attribute related to __________",
+  "options": [
+   {
+    "k": "A",
+    "text": "Correctness"
+   },
+   {
+    "k": "B",
+    "text": "Reliability"
+   },
+   {
+    "k": "C",
+    "text": "Robustness"
+   },
+   {
+    "k": "D",
+    "text": "None of the above"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Robustness = recovering from errors/unexpected situations.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q5",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "Rido is a ride sharing app, where users can share rides with others to reach their destination.\n\nDuring beta testing, Rido crashed often when many users tried to book rides. Rido is unable to satisfy the requirement of ___________",
+  "options": [
+   {
+    "k": "A",
+    "text": "Correctness"
+   },
+   {
+    "k": "B",
+    "text": "Reliability"
+   },
+   {
+    "k": "C",
+    "text": "Robustness"
+   },
+   {
+    "k": "D",
+    "text": "None of the above"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Reliability = behaving the same way over time; crashing often breaks it.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q6",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "ATM withdrawal system (class diagram with ATM and Account classes, and a sequence diagram for withdrawal).\n\nThe class diagram only contains data members in the class and it has nothing to do with the behavior of the class.",
+  "options": [
+   {
+    "k": "A",
+    "text": "True"
+   },
+   {
+    "k": "B",
+    "text": "False"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Classes have three compartments: name, attributes, operations (methods).",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [
+   "diagram-not-in-source"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q7",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "ATM withdrawal system (class diagram with ATM and Account classes, and a sequence diagram for withdrawal).\n\n\"balance\" in the \"Account\" class in the class diagram is _____________",
+  "options": [
+   {
+    "k": "A",
+    "text": "A class"
+   },
+   {
+    "k": "B",
+    "text": "An object"
+   },
+   {
+    "k": "C",
+    "text": "A data member of the \"Account\" class"
+   },
+   {
+    "k": "D",
+    "text": "A member function of the \"Account\" class"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Attributes sit in the middle compartment.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [
+   "diagram-not-in-source"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q8",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "ATM withdrawal system (class diagram with ATM and Account classes, and a sequence diagram for withdrawal).\n\n\"setOption()\" in the ATM class in the class diagram is _____________",
+  "options": [
+   {
+    "k": "A",
+    "text": "A class"
+   },
+   {
+    "k": "B",
+    "text": "An object"
+   },
+   {
+    "k": "C",
+    "text": "A data member of the \"ATM\" class"
+   },
+   {
+    "k": "D",
+    "text": "A member function of the \"ATM\" class"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Operations sit in the bottom compartment.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [
+   "diagram-not-in-source"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q9",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "ATM withdrawal system (class diagram with ATM and Account classes, and a sequence diagram for withdrawal).\n\nWhat are the possible values that the \"deposit()\" function of the \"Account\" class returns?",
+  "options": [
+   {
+    "k": "A",
+    "text": "True or False"
+   },
+   {
+    "k": "B",
+    "text": "1 or 0"
+   },
+   {
+    "k": "C",
+    "text": "Deposited amount"
+   },
+   {
+    "k": "D",
+    "text": "Depositor name"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Return type is bool in the class diagram.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [
+   "diagram-not-in-source"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W3-Q10",
+  "src": "NPTEL",
+  "week": 3,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "ATM withdrawal system (class diagram with ATM and Account classes, and a sequence diagram for withdrawal).\n\nIf checkPin() function from the ATM class returns false then what message will it show to the user?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Low account balance"
+   },
+   {
+    "k": "B",
+    "text": "Correct PIN"
+   },
+   {
+    "k": "C",
+    "text": "Incorrect PIN"
+   },
+   {
+    "k": "D",
+    "text": "Re-enter PIN"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Read off the else-branch of the sequence diagram.",
+  "topics": [
+   "Sequence diagram"
+  ],
+  "flags": [
+   "diagram-not-in-source"
+  ],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q1",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "A class in a UML class diagram has three compartments: name, ________, and operations.",
+  "options": [
+   {
+    "k": "A",
+    "text": "attributes"
+   },
+   {
+    "k": "B",
+    "text": "lifelines"
+   },
+   {
+    "k": "C",
+    "text": "states"
+   },
+   {
+    "k": "D",
+    "text": "messages"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Top = name, middle = attributes, bottom = operations.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q2",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "In a sequence diagram, the horizontal arrows represent ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "classes"
+   },
+   {
+    "k": "B",
+    "text": "requirements"
+   },
+   {
+    "k": "C",
+    "text": "messages exchanged in order"
+   },
+   {
+    "k": "D",
+    "text": "attributes"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Vertical dashed lines are lifelines.",
+  "topics": [
+   "Sequence diagram"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q3",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "Which view models the possible life histories of an object of a class?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Interaction view"
+   },
+   {
+    "k": "B",
+    "text": "Activity view"
+   },
+   {
+    "k": "C",
+    "text": "State machine view"
+   },
+   {
+    "k": "D",
+    "text": "Structural view"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Dynamic view; activity = flow of control; interaction = message sequence.",
+  "topics": [
+   "UML"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q4",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 4,
+  "type": "MSQ",
+  "question": "Which are kinds of knowledge needed for design comprehension?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Problem domain knowledge"
+   },
+   {
+    "k": "B",
+    "text": "Knowledge of dynamic behaviours in the design"
+   },
+   {
+    "k": "C",
+    "text": "Knowledge of main goals in the diagrams"
+   },
+   {
+    "k": "D",
+    "text": "Design diagram knowledge"
+   }
+  ],
+  "answer": [
+   "A",
+   "D",
+   "C",
+   "B"
+  ],
+  "explanation": "The four from Lecture 17.",
+  "topics": [
+   "Design comprehension"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q5",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "VeriSIM stands for ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Visual Software Integrated Modelling"
+   },
+   {
+    "k": "B",
+    "text": "Verifying designs by Simulating scenarios"
+   },
+   {
+    "k": "C",
+    "text": "Verifying Sequence Interaction Models"
+   },
+   {
+    "k": "D",
+    "text": "Validating Software In Modules"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "It builds integrated understanding of class and sequence diagrams.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q6",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "In design tracing, the transitions of the state diagram correspond to ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "messages in the sequence diagram"
+   },
+   {
+    "k": "B",
+    "text": "attributes in the class diagram"
+   },
+   {
+    "k": "C",
+    "text": "use cases"
+   },
+   {
+    "k": "D",
+    "text": "FBS functions"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "States hold variables from the class diagram.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q7",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "The extent to which a program behaves according to its specification is ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Portability"
+   },
+   {
+    "k": "B",
+    "text": "Correctness"
+   },
+   {
+    "k": "C",
+    "text": "Reliability"
+   },
+   {
+    "k": "D",
+    "text": "Robustness"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "A functional requirement.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q8",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "A wallet app rejects negative amounts and copes with very high traffic. This shows ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Modularity"
+   },
+   {
+    "k": "B",
+    "text": "Reliability"
+   },
+   {
+    "k": "C",
+    "text": "Robustness"
+   },
+   {
+    "k": "D",
+    "text": "Correctness"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Handling unexpected input and conditions.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q9",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 9,
+  "type": "MSQ",
+  "question": "Which are non-functional requirements?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Reliability"
+   },
+   {
+    "k": "B",
+    "text": "Robustness"
+   },
+   {
+    "k": "C",
+    "text": "Security"
+   },
+   {
+    "k": "D",
+    "text": "Performance"
+   }
+  ],
+  "answer": [
+   "A",
+   "B",
+   "D",
+   "C"
+  ],
+  "explanation": "Correctness is the functional one.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q10",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "Modelling is ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "deploying software"
+   },
+   {
+    "k": "B",
+    "text": "creating an external, explicit representation of the system to be built"
+   },
+   {
+    "k": "C",
+    "text": "writing test cases"
+   },
+   {
+    "k": "D",
+    "text": "gathering requirements"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "FBS graph and UML are both models.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q11",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 11,
+  "type": "MCQ",
+  "question": "A class diagram is a ________ diagram.",
+  "options": [
+   {
+    "k": "A",
+    "text": "timing"
+   },
+   {
+    "k": "B",
+    "text": "static structure"
+   },
+   {
+    "k": "C",
+    "text": "deployment-only"
+   },
+   {
+    "k": "D",
+    "text": "dynamic behaviour"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Classes, attributes, operations and relationships.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q12",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 12,
+  "type": "MCQ",
+  "question": "The UML view that shows the flow of control among computational activities is the ________ view.",
+  "options": [
+   {
+    "k": "A",
+    "text": "interaction"
+   },
+   {
+    "k": "B",
+    "text": "state machine"
+   },
+   {
+    "k": "C",
+    "text": "activity"
+   },
+   {
+    "k": "D",
+    "text": "structural"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "State machine = object life history; interaction = messages.",
+  "topics": [
+   "UML"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q13",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 13,
+  "type": "MCQ",
+  "question": "Lifelines appear in a ________ diagram.",
+  "options": [
+   {
+    "k": "A",
+    "text": "sequence"
+   },
+   {
+    "k": "B",
+    "text": "use case only"
+   },
+   {
+    "k": "C",
+    "text": "FBS"
+   },
+   {
+    "k": "D",
+    "text": "class"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Objects on top with vertical lifelines; arrows are messages.",
+  "topics": [
+   "Sequence diagram"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q14",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 14,
+  "type": "MCQ",
+  "question": "The main building block of object-oriented modelling is the ________ diagram.",
+  "options": [
+   {
+    "k": "A",
+    "text": "class"
+   },
+   {
+    "k": "B",
+    "text": "timing"
+   },
+   {
+    "k": "C",
+    "text": "sequence"
+   },
+   {
+    "k": "D",
+    "text": "activity"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "From Lecture 16.",
+  "topics": [
+   "Class diagram"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q15",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 15,
+  "type": "MCQ",
+  "question": "The system used as the context in VeriSIM is an ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "ATM"
+   },
+   {
+    "k": "B",
+    "text": "online shop"
+   },
+   {
+    "k": "C",
+    "text": "automated door-locking system"
+   },
+   {
+    "k": "D",
+    "text": "music player"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Register, lock and unlock with a passcode.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q16",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 16,
+  "type": "MCQ",
+  "question": "In the door-locking system, the user chooses lock and enters an incorrect passcode. The door ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "unlocks"
+   },
+   {
+    "k": "B",
+    "text": "remains unlocked"
+   },
+   {
+    "k": "C",
+    "text": "explodes"
+   },
+   {
+    "k": "D",
+    "text": "locks"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Incorrect passcode: no state change.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q17",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 17,
+  "type": "MCQ",
+  "question": "In design tracing, the variables in the states are taken from the ________ diagram.",
+  "options": [
+   {
+    "k": "A",
+    "text": "deployment"
+   },
+   {
+    "k": "B",
+    "text": "FBS"
+   },
+   {
+    "k": "C",
+    "text": "use case"
+   },
+   {
+    "k": "D",
+    "text": "class"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Transitions come from the sequence diagram.",
+  "topics": [
+   "VeriSIM"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q18",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 18,
+  "type": "MCQ",
+  "question": "Reliability is the extent to which a program ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "is portable"
+   },
+   {
+    "k": "B",
+    "text": "meets its specification"
+   },
+   {
+    "k": "C",
+    "text": "recovers from unexpected input"
+   },
+   {
+    "k": "D",
+    "text": "behaves the same way over time in the same operating environment"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Do not confuse with correctness and robustness.",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W3-Q19",
+  "src": "EXTRA",
+  "week": 3,
+  "qno": 19,
+  "type": "MCQ",
+  "question": "Quality attributes are often implicit and not shown in the UML diagrams.",
+  "options": [
+   {
+    "k": "A",
+    "text": "True"
+   },
+   {
+    "k": "B",
+    "text": "False"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "So note them and the decisions based on them explicitly (Lecture 20).",
+  "topics": [
+   "Quality attributes"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   3
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q1",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "What do the structures in the FBS framework represent?",
+  "options": [
+   {
+    "k": "A",
+    "text": "The functionalities and features of the software."
+   },
+   {
+    "k": "B",
+    "text": "The physical and logical components that make up the software."
+   },
+   {
+    "k": "C",
+    "text": "The interactions between different functionalities."
+   },
+   {
+    "k": "D",
+    "text": "The user interface elements of the software."
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "F = features, S = components, B = interactions.",
+  "topics": [
+   "FBS"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q2",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "What is the key difference between the FBS and UML modelling representations?",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS focuses on user interface design, while UML focuses on system functionalities."
+   },
+   {
+    "k": "B",
+    "text": "FBS is used for code generation, while UML is for design communication."
+   },
+   {
+    "k": "C",
+    "text": "FBS provides a high-level overview, while UML diagrams offer more detailed views."
+   },
+   {
+    "k": "D",
+    "text": "FBS is created before requirements definition, while UML comes after."
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Different levels of abstraction.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q3",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 3,
+  "type": "MSQ",
+  "question": "Purpose of the modeling is _________",
+  "options": [
+   {
+    "k": "A",
+    "text": "To provide a vehicle for communication and idea generation"
+   },
+   {
+    "k": "B",
+    "text": "To do analysis and comprehension"
+   },
+   {
+    "k": "C",
+    "text": "To get hold of stakeholders and gather requirements"
+   },
+   {
+    "k": "D",
+    "text": "To come up with a blueprint for implementation"
+   }
+  ],
+  "answer": [
+   "A",
+   "B",
+   "D"
+  ],
+  "explanation": "FBS: communication; UML: analysis; detailed UML: blueprint.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q4",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "If a team of software designers want to first communicate the key ideas of the software before detailing out the solution, the appropriate model to be used is __________",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS"
+   },
+   {
+    "k": "B",
+    "text": "Simple UML models"
+   },
+   {
+    "k": "C",
+    "text": "Detailed UML models"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "FBS = high-level overview for communication.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q5",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "A software design team wants a model which a development team can directly transform to code. Which is most appropriate?",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS"
+   },
+   {
+    "k": "B",
+    "text": "Simple UML models"
+   },
+   {
+    "k": "C",
+    "text": "Detailed UML models"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Detailed UML maps closely to code; tools can generate code.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q6",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "__________ is used to divide a software system into multiple independent modules, which are capable of carrying out the desired functionalities.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Abstraction"
+   },
+   {
+    "k": "B",
+    "text": "Modularization"
+   },
+   {
+    "k": "C",
+    "text": "Decomposition"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Modularization = independent co-working modules.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q7",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "__________ is a way of hiding details in the design at each stage of the design process.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Abstraction"
+   },
+   {
+    "k": "B",
+    "text": "Modularization"
+   },
+   {
+    "k": "C",
+    "text": "Decomposition"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Abstraction hides details; level of detail = level of abstraction.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "NPTEL-W4-Q8",
+  "src": "NPTEL",
+  "week": 4,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "While creating a software conceptual design, you are breaking down the implementation components. Which software engineering process are you following?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Design analysis"
+   },
+   {
+    "k": "B",
+    "text": "Testing"
+   },
+   {
+    "k": "C",
+    "text": "Decomposition"
+   },
+   {
+    "k": "D",
+    "text": "Implementation"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Breaking down components = decomposition.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q1",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 1,
+  "type": "MCQ",
+  "question": "Function ↔ Behaviour mapping in FBS initiates which process?",
+  "options": [
+   {
+    "k": "A",
+    "text": "Evaluation and refinement"
+   },
+   {
+    "k": "B",
+    "text": "Requirement definition"
+   },
+   {
+    "k": "C",
+    "text": "Design analysis"
+   },
+   {
+    "k": "D",
+    "text": "Reusability"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "From the mapping table in Lecture 23.",
+  "topics": [
+   "Mapping"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q2",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 2,
+  "type": "MCQ",
+  "question": "Structure ↔ Behaviour mapping initiates ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Requirement definition"
+   },
+   {
+    "k": "B",
+    "text": "Maintenance only"
+   },
+   {
+    "k": "C",
+    "text": "Reusability"
+   },
+   {
+    "k": "D",
+    "text": "Design analysis, testing, implementation and requirements change"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Mapping table.",
+  "topics": [
+   "Mapping"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q3",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 3,
+  "type": "MCQ",
+  "question": "Function ↔ Structure mapping corresponds to ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Testing"
+   },
+   {
+    "k": "B",
+    "text": "Reusability and change in needs"
+   },
+   {
+    "k": "C",
+    "text": "Evaluation and decomposition"
+   },
+   {
+    "k": "D",
+    "text": "Requirement definition"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Mapping table.",
+  "topics": [
+   "Mapping"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q4",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 4,
+  "type": "MCQ",
+  "question": "Behaviour ↔ Behaviour and Structure ↔ Structure mappings correspond to ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Reusability"
+   },
+   {
+    "k": "B",
+    "text": "Evaluation, decomposition and refinement"
+   },
+   {
+    "k": "C",
+    "text": "Requirement definition"
+   },
+   {
+    "k": "D",
+    "text": "Deployment"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Mapping table.",
+  "topics": [
+   "Mapping"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q5",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 5,
+  "type": "MCQ",
+  "question": "Order the abstraction levels from high to low:",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS → UML → detailed UML → code"
+   },
+   {
+    "k": "B",
+    "text": "Detailed UML → UML → FBS → code"
+   },
+   {
+    "k": "C",
+    "text": "UML → FBS → code → detailed UML"
+   },
+   {
+    "k": "D",
+    "text": "Code → UML → FBS"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Detail is added as we go down.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q6",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 6,
+  "type": "MCQ",
+  "question": "In moving from FBS to UML, functions are expanded into ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "state diagrams"
+   },
+   {
+    "k": "B",
+    "text": "use cases"
+   },
+   {
+    "k": "C",
+    "text": "sequence diagrams"
+   },
+   {
+    "k": "D",
+    "text": "class diagrams"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Structures → class diagrams; behaviours → sequence diagrams.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q7",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 7,
+  "type": "MCQ",
+  "question": "In moving from FBS to UML, structures are detailed into ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "class diagrams"
+   },
+   {
+    "k": "B",
+    "text": "test cases"
+   },
+   {
+    "k": "C",
+    "text": "sequence diagrams"
+   },
+   {
+    "k": "D",
+    "text": "use cases"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Behaviours → sequence diagrams.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q8",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 8,
+  "type": "MCQ",
+  "question": "In moving from FBS to UML, behaviours are described by ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "components"
+   },
+   {
+    "k": "B",
+    "text": "sequence diagrams"
+   },
+   {
+    "k": "C",
+    "text": "use cases"
+   },
+   {
+    "k": "D",
+    "text": "class diagrams"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "As in the mood-detection example.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q9",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 9,
+  "type": "MCQ",
+  "question": "Experts, according to the course summary, spend a lot of time in the ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "testing phase only"
+   },
+   {
+    "k": "B",
+    "text": "initial phases: understanding the problem and modelling"
+   },
+   {
+    "k": "C",
+    "text": "coding phase"
+   },
+   {
+    "k": "D",
+    "text": "maintenance phase only"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Lecture 25.",
+  "topics": [
+   "Summary"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q10",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 10,
+  "type": "MCQ",
+  "question": "The model that is a vehicle for communication and idea generation is the ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS graph"
+   },
+   {
+    "k": "B",
+    "text": "detailed UML model"
+   },
+   {
+    "k": "C",
+    "text": "test report"
+   },
+   {
+    "k": "D",
+    "text": "source code"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "UML models are for analysis; detailed UML for blueprint.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q11",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 11,
+  "type": "MCQ",
+  "question": "UML models are used for ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "bug fixing only"
+   },
+   {
+    "k": "B",
+    "text": "gathering requirements"
+   },
+   {
+    "k": "C",
+    "text": "deployment"
+   },
+   {
+    "k": "D",
+    "text": "analysis and comprehension"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "As in VeriSIM.",
+  "topics": [
+   "Modelling"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q12",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 12,
+  "type": "MCQ",
+  "question": "Tools can automatically generate code from ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "FBS graphs"
+   },
+   {
+    "k": "B",
+    "text": "requirement lists"
+   },
+   {
+    "k": "C",
+    "text": "detailed UML diagrams"
+   },
+   {
+    "k": "D",
+    "text": "test reports"
+   }
+  ],
+  "answer": [
+   "C"
+  ],
+  "explanation": "Detailed UML corresponds closely to implementation.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q13",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 13,
+  "type": "MCQ",
+  "question": "In detailed UML, every class in the model maps to ________ in the implementation code.",
+  "options": [
+   {
+    "k": "A",
+    "text": "one or more classes"
+   },
+   {
+    "k": "B",
+    "text": "a database only"
+   },
+   {
+    "k": "C",
+    "text": "exactly zero classes"
+   },
+   {
+    "k": "D",
+    "text": "one test"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Close correspondence with code.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q14",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 14,
+  "type": "MCQ",
+  "question": "UML diagrams are an example of ________ level abstraction.",
+  "options": [
+   {
+    "k": "A",
+    "text": "medium"
+   },
+   {
+    "k": "B",
+    "text": "very low"
+   },
+   {
+    "k": "C",
+    "text": "high"
+   },
+   {
+    "k": "D",
+    "text": "no"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "FBS = high; detailed UML = low (near code).",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q15",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 15,
+  "type": "MCQ",
+  "question": "The FBS representation is an example of ________ level abstraction.",
+  "options": [
+   {
+    "k": "A",
+    "text": "code"
+   },
+   {
+    "k": "B",
+    "text": "low"
+   },
+   {
+    "k": "C",
+    "text": "medium"
+   },
+   {
+    "k": "D",
+    "text": "high"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "It gives an overview of the solution.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q16",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 16,
+  "type": "MCQ",
+  "question": "Modules produced by modularization are the ________ of the software.",
+  "options": [
+   {
+    "k": "A",
+    "text": "basic building blocks"
+   },
+   {
+    "k": "B",
+    "text": "requirements"
+   },
+   {
+    "k": "C",
+    "text": "clients"
+   },
+   {
+    "k": "D",
+    "text": "test cases"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Independent, co-working modules.",
+  "topics": [
+   "Abstraction"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q17",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 17,
+  "type": "MCQ",
+  "question": "Software development is described as a ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "systematic process of problem-solving"
+   },
+   {
+    "k": "B",
+    "text": "hardware process"
+   },
+   {
+    "k": "C",
+    "text": "one-time coding task"
+   },
+   {
+    "k": "D",
+    "text": "random activity"
+   }
+  ],
+  "answer": [
+   "A"
+  ],
+  "explanation": "Lecture 22.",
+  "topics": [
+   "Summary"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q18",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 18,
+  "type": "MCQ",
+  "question": "Software design is more complex than design in architecture because software is ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "static"
+   },
+   {
+    "k": "B",
+    "text": "abstract and intangible"
+   },
+   {
+    "k": "C",
+    "text": "cheap"
+   },
+   {
+    "k": "D",
+    "text": "physical"
+   }
+  ],
+  "answer": [
+   "B"
+  ],
+  "explanation": "Though design processes across domains are similar.",
+  "topics": [
+   "Summary"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ },
+ {
+  "id": "EXTRA-W4-Q19",
+  "src": "EXTRA",
+  "week": 4,
+  "qno": 19,
+  "type": "MCQ",
+  "question": "The mapping table of FBS elements to software processes is based on the ________.",
+  "options": [
+   {
+    "k": "A",
+    "text": "Kanban"
+   },
+   {
+    "k": "B",
+    "text": "Alpha testing"
+   },
+   {
+    "k": "C",
+    "text": "Waterfall model only"
+   },
+   {
+    "k": "D",
+    "text": "Rational Unified Process"
+   }
+  ],
+  "answer": [
+   "D"
+  ],
+  "explanation": "Header of the slide table in Lecture 23.",
+  "topics": [
+   "Mapping"
+  ],
+  "flags": [],
+  "repeat": 1,
+  "years": [
+   2026
+  ],
+  "weeks": [
+   4
+  ],
+  "appearances": []
+ }
+]
